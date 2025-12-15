@@ -40,7 +40,9 @@ Python 3.12.7
 
 ## 💾 Fonte de Dados
 Nome: E-commerce Data
+
 Disponibilidade: Kaggle
+
 Link: https://www.kaggle.com/datasets/jockeroika/ecommerce-data
 
 
@@ -48,6 +50,7 @@ Link: https://www.kaggle.com/datasets/jockeroika/ecommerce-data
 Para visualizar a análise em seu ambiente local, siga as etapas:
 
 1) Clone o Repositório:
+
    git clone https://github.com/laridesouza/analise-eccomerce.git
 
    cd analise-ecommerce
