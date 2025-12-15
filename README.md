@@ -1,4 +1,4 @@
-# 🛍️ Análise de Desempenho e Estratégia em E-commerce
+# 🛍️ Análise Exploratória de Dados de E-commerce
 
 Descubra como o comportamento de compra, a sazonalidade e o desempenho regional afetam a receita de uma operação de e-commerce.
 
